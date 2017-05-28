@@ -1,0 +1,400 @@
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\obj\Debug\NewsBlog.csprojResolveAssemblyReference.cache
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\NewsBlog.dll.config
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\NewsBlog.dll
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\NewsBlog.pdb
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\Antlr3.Runtime.dll
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\EntityFramework.dll
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\EntityFramework.SqlServer.dll
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\Microsoft.AspNet.Identity.Core.dll
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\Microsoft.Owin.dll
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\Microsoft.Owin.Security.Cookies.dll
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\Microsoft.Owin.Security.dll
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\Microsoft.Owin.Security.Facebook.dll
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\Microsoft.Owin.Security.Google.dll
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\Microsoft.Owin.Security.OAuth.dll
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\Microsoft.Owin.Security.Twitter.dll
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\Microsoft.Web.Infrastructure.dll
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\Newtonsoft.Json.dll
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\Owin.dll
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\System.Net.Http.Formatting.dll
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\System.Web.Helpers.dll
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\System.Web.Http.dll
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\System.Web.Http.WebHost.dll
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\System.Web.Mvc.dll
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\System.Web.Optimization.dll
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\System.Web.Razor.dll
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\System.Web.WebPages.Deployment.dll
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\System.Web.WebPages.dll
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\System.Web.WebPages.Razor.dll
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\WebGrease.dll
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\System.Web.Helpers.xml
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\System.Web.Mvc.xml
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\System.Web.Optimization.xml
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\System.Web.Razor.xml
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\System.Web.WebPages.xml
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\System.Web.WebPages.Deployment.xml
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\System.Web.WebPages.Razor.xml
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\Antlr3.Runtime.pdb
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\Newtonsoft.Json.xml
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\System.Net.Http.Formatting.xml
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\System.Web.Http.xml
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\System.Web.Http.WebHost.xml
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\EntityFramework.xml
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\EntityFramework.SqlServer.xml
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\Microsoft.AspNet.Identity.Core.xml
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\Microsoft.Owin.xml
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\Microsoft.Owin.Security.xml
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\Microsoft.Owin.Security.Facebook.xml
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\Microsoft.Owin.Security.Cookies.xml
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\Microsoft.Owin.Security.OAuth.xml
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\Microsoft.Owin.Security.Google.xml
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\Microsoft.Owin.Security.Twitter.xml
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\obj\Debug\NewsBlog.dll
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\obj\Debug\NewsBlog.pdb
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\PagedList.dll
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\PagedList.Mvc.dll
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\PagedList.xml
+D:\C#\Repos\warehouse\NewsBlog\NewsBlog\bin\PagedList.Mvc.xml
+D:\C#\Repos\NewsBlog\NewsBlog\bin\NewsBlog.dll.config
+D:\C#\Repos\NewsBlog\NewsBlog\bin\NewsBlog.dll
+D:\C#\Repos\NewsBlog\NewsBlog\bin\NewsBlog.pdb
+D:\C#\Repos\NewsBlog\NewsBlog\bin\Antlr3.Runtime.dll
+D:\C#\Repos\NewsBlog\NewsBlog\bin\EntityFramework.dll
+D:\C#\Repos\NewsBlog\NewsBlog\bin\EntityFramework.SqlServer.dll
+D:\C#\Repos\NewsBlog\NewsBlog\bin\Microsoft.AspNet.Identity.Core.dll
+D:\C#\Repos\NewsBlog\NewsBlog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\C#\Repos\NewsBlog\NewsBlog\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\C#\Repos\NewsBlog\NewsBlog\bin\Microsoft.Owin.dll
+D:\C#\Repos\NewsBlog\NewsBlog\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\C#\Repos\NewsBlog\NewsBlog\bin\Microsoft.Owin.Security.Cookies.dll
+D:\C#\Repos\NewsBlog\NewsBlog\bin\Microsoft.Owin.Security.dll
+D:\C#\Repos\NewsBlog\NewsBlog\bin\Microsoft.Owin.Security.Facebook.dll
+D:\C#\Repos\NewsBlog\NewsBlog\bin\Microsoft.Owin.Security.Google.dll
+D:\C#\Repos\NewsBlog\NewsBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\C#\Repos\NewsBlog\NewsBlog\bin\Microsoft.Owin.Security.OAuth.dll
+D:\C#\Repos\NewsBlog\NewsBlog\bin\Microsoft.Owin.Security.Twitter.dll
+D:\C#\Repos\NewsBlog\NewsBlog\bin\Microsoft.Web.Infrastructure.dll
+D:\C#\Repos\NewsBlog\NewsBlog\bin\Newtonsoft.Json.dll
+D:\C#\Repos\NewsBlog\NewsBlog\bin\Owin.dll
+D:\C#\Repos\NewsBlog\NewsBlog\bin\PagedList.dll
+D:\C#\Repos\NewsBlog\NewsBlog\bin\PagedList.Mvc.dll
+D:\C#\Repos\NewsBlog\NewsBlog\bin\System.Net.Http.Formatting.dll
+D:\C#\Repos\NewsBlog\NewsBlog\bin\System.Web.Helpers.dll
+D:\C#\Repos\NewsBlog\NewsBlog\bin\System.Web.Http.dll
+D:\C#\Repos\NewsBlog\NewsBlog\bin\System.Web.Http.WebHost.dll
+D:\C#\Repos\NewsBlog\NewsBlog\bin\System.Web.Mvc.dll
+D:\C#\Repos\NewsBlog\NewsBlog\bin\System.Web.Optimization.dll
+D:\C#\Repos\NewsBlog\NewsBlog\bin\System.Web.Razor.dll
+D:\C#\Repos\NewsBlog\NewsBlog\bin\System.Web.WebPages.Deployment.dll
+D:\C#\Repos\NewsBlog\NewsBlog\bin\System.Web.WebPages.dll
+D:\C#\Repos\NewsBlog\NewsBlog\bin\System.Web.WebPages.Razor.dll
+D:\C#\Repos\NewsBlog\NewsBlog\bin\WebGrease.dll
+D:\C#\Repos\NewsBlog\NewsBlog\bin\PagedList.xml
+D:\C#\Repos\NewsBlog\NewsBlog\bin\PagedList.Mvc.xml
+D:\C#\Repos\NewsBlog\NewsBlog\bin\System.Web.Helpers.xml
+D:\C#\Repos\NewsBlog\NewsBlog\bin\System.Web.Mvc.xml
+D:\C#\Repos\NewsBlog\NewsBlog\bin\System.Web.Optimization.xml
+D:\C#\Repos\NewsBlog\NewsBlog\bin\System.Web.Razor.xml
+D:\C#\Repos\NewsBlog\NewsBlog\bin\System.Web.WebPages.xml
+D:\C#\Repos\NewsBlog\NewsBlog\bin\System.Web.WebPages.Deployment.xml
+D:\C#\Repos\NewsBlog\NewsBlog\bin\System.Web.WebPages.Razor.xml
+D:\C#\Repos\NewsBlog\NewsBlog\bin\Antlr3.Runtime.pdb
+D:\C#\Repos\NewsBlog\NewsBlog\bin\Newtonsoft.Json.xml
+D:\C#\Repos\NewsBlog\NewsBlog\bin\System.Net.Http.Formatting.xml
+D:\C#\Repos\NewsBlog\NewsBlog\bin\System.Web.Http.xml
+D:\C#\Repos\NewsBlog\NewsBlog\bin\System.Web.Http.WebHost.xml
+D:\C#\Repos\NewsBlog\NewsBlog\bin\EntityFramework.xml
+D:\C#\Repos\NewsBlog\NewsBlog\bin\EntityFramework.SqlServer.xml
+D:\C#\Repos\NewsBlog\NewsBlog\bin\Microsoft.AspNet.Identity.Core.xml
+D:\C#\Repos\NewsBlog\NewsBlog\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\C#\Repos\NewsBlog\NewsBlog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\C#\Repos\NewsBlog\NewsBlog\bin\Microsoft.Owin.xml
+D:\C#\Repos\NewsBlog\NewsBlog\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\C#\Repos\NewsBlog\NewsBlog\bin\Microsoft.Owin.Security.xml
+D:\C#\Repos\NewsBlog\NewsBlog\bin\Microsoft.Owin.Security.Facebook.xml
+D:\C#\Repos\NewsBlog\NewsBlog\bin\Microsoft.Owin.Security.Cookies.xml
+D:\C#\Repos\NewsBlog\NewsBlog\bin\Microsoft.Owin.Security.OAuth.xml
+D:\C#\Repos\NewsBlog\NewsBlog\bin\Microsoft.Owin.Security.Google.xml
+D:\C#\Repos\NewsBlog\NewsBlog\bin\Microsoft.Owin.Security.Twitter.xml
+D:\C#\Repos\NewsBlog\NewsBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\C#\Repos\NewsBlog\NewsBlog\obj\Debug\NewsBlog.csprojResolveAssemblyReference.cache
+D:\C#\Repos\NewsBlog\NewsBlog\obj\Debug\NewsBlog.dll
+D:\C#\Repos\NewsBlog\NewsBlog\obj\Debug\NewsBlog.pdb
+D:\C#\NewsBlog\NewsBlog\bin\NewsBlog.dll.config
+D:\C#\NewsBlog\NewsBlog\bin\NewsBlog.dll
+D:\C#\NewsBlog\NewsBlog\bin\NewsBlog.pdb
+D:\C#\NewsBlog\NewsBlog\bin\Antlr3.Runtime.dll
+D:\C#\NewsBlog\NewsBlog\bin\EntityFramework.dll
+D:\C#\NewsBlog\NewsBlog\bin\EntityFramework.SqlServer.dll
+D:\C#\NewsBlog\NewsBlog\bin\Microsoft.AspNet.Identity.Core.dll
+D:\C#\NewsBlog\NewsBlog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\C#\NewsBlog\NewsBlog\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\C#\NewsBlog\NewsBlog\bin\Microsoft.Owin.dll
+D:\C#\NewsBlog\NewsBlog\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\C#\NewsBlog\NewsBlog\bin\Microsoft.Owin.Security.Cookies.dll
+D:\C#\NewsBlog\NewsBlog\bin\Microsoft.Owin.Security.dll
+D:\C#\NewsBlog\NewsBlog\bin\Microsoft.Owin.Security.Facebook.dll
+D:\C#\NewsBlog\NewsBlog\bin\Microsoft.Owin.Security.Google.dll
+D:\C#\NewsBlog\NewsBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\C#\NewsBlog\NewsBlog\bin\Microsoft.Owin.Security.OAuth.dll
+D:\C#\NewsBlog\NewsBlog\bin\Microsoft.Owin.Security.Twitter.dll
+D:\C#\NewsBlog\NewsBlog\bin\Microsoft.Web.Infrastructure.dll
+D:\C#\NewsBlog\NewsBlog\bin\Newtonsoft.Json.dll
+D:\C#\NewsBlog\NewsBlog\bin\Owin.dll
+D:\C#\NewsBlog\NewsBlog\bin\PagedList.dll
+D:\C#\NewsBlog\NewsBlog\bin\PagedList.Mvc.dll
+D:\C#\NewsBlog\NewsBlog\bin\System.Net.Http.Formatting.dll
+D:\C#\NewsBlog\NewsBlog\bin\System.Web.Helpers.dll
+D:\C#\NewsBlog\NewsBlog\bin\System.Web.Http.dll
+D:\C#\NewsBlog\NewsBlog\bin\System.Web.Http.WebHost.dll
+D:\C#\NewsBlog\NewsBlog\bin\System.Web.Mvc.dll
+D:\C#\NewsBlog\NewsBlog\bin\System.Web.Optimization.dll
+D:\C#\NewsBlog\NewsBlog\bin\System.Web.Razor.dll
+D:\C#\NewsBlog\NewsBlog\bin\System.Web.WebPages.Deployment.dll
+D:\C#\NewsBlog\NewsBlog\bin\System.Web.WebPages.dll
+D:\C#\NewsBlog\NewsBlog\bin\System.Web.WebPages.Razor.dll
+D:\C#\NewsBlog\NewsBlog\bin\WebGrease.dll
+D:\C#\NewsBlog\NewsBlog\bin\PagedList.xml
+D:\C#\NewsBlog\NewsBlog\bin\PagedList.Mvc.xml
+D:\C#\NewsBlog\NewsBlog\bin\System.Web.Helpers.xml
+D:\C#\NewsBlog\NewsBlog\bin\System.Web.Mvc.xml
+D:\C#\NewsBlog\NewsBlog\bin\System.Web.Optimization.xml
+D:\C#\NewsBlog\NewsBlog\bin\System.Web.Razor.xml
+D:\C#\NewsBlog\NewsBlog\bin\System.Web.WebPages.xml
+D:\C#\NewsBlog\NewsBlog\bin\System.Web.WebPages.Deployment.xml
+D:\C#\NewsBlog\NewsBlog\bin\System.Web.WebPages.Razor.xml
+D:\C#\NewsBlog\NewsBlog\bin\Antlr3.Runtime.pdb
+D:\C#\NewsBlog\NewsBlog\bin\Newtonsoft.Json.xml
+D:\C#\NewsBlog\NewsBlog\bin\System.Net.Http.Formatting.xml
+D:\C#\NewsBlog\NewsBlog\bin\System.Web.Http.xml
+D:\C#\NewsBlog\NewsBlog\bin\System.Web.Http.WebHost.xml
+D:\C#\NewsBlog\NewsBlog\bin\EntityFramework.xml
+D:\C#\NewsBlog\NewsBlog\bin\EntityFramework.SqlServer.xml
+D:\C#\NewsBlog\NewsBlog\bin\Microsoft.AspNet.Identity.Core.xml
+D:\C#\NewsBlog\NewsBlog\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\C#\NewsBlog\NewsBlog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\C#\NewsBlog\NewsBlog\bin\Microsoft.Owin.xml
+D:\C#\NewsBlog\NewsBlog\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\C#\NewsBlog\NewsBlog\bin\Microsoft.Owin.Security.xml
+D:\C#\NewsBlog\NewsBlog\bin\Microsoft.Owin.Security.Facebook.xml
+D:\C#\NewsBlog\NewsBlog\bin\Microsoft.Owin.Security.Cookies.xml
+D:\C#\NewsBlog\NewsBlog\bin\Microsoft.Owin.Security.OAuth.xml
+D:\C#\NewsBlog\NewsBlog\bin\Microsoft.Owin.Security.Google.xml
+D:\C#\NewsBlog\NewsBlog\bin\Microsoft.Owin.Security.Twitter.xml
+D:\C#\NewsBlog\NewsBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\C#\NewsBlog\NewsBlog\obj\Debug\NewsBlog.csprojResolveAssemblyReference.cache
+D:\C#\NewsBlog\NewsBlog\obj\Debug\NewsBlog.dll
+D:\C#\NewsBlog\NewsBlog\obj\Debug\NewsBlog.pdb
+D:\C#\Repos\BlogCMS\NewsBlog\bin\NewsBlog.dll.config
+D:\C#\Repos\BlogCMS\NewsBlog\bin\NewsBlog.dll
+D:\C#\Repos\BlogCMS\NewsBlog\bin\NewsBlog.pdb
+D:\C#\Repos\BlogCMS\NewsBlog\bin\Antlr3.Runtime.dll
+D:\C#\Repos\BlogCMS\NewsBlog\bin\EntityFramework.dll
+D:\C#\Repos\BlogCMS\NewsBlog\bin\EntityFramework.SqlServer.dll
+D:\C#\Repos\BlogCMS\NewsBlog\bin\Microsoft.AspNet.Identity.Core.dll
+D:\C#\Repos\BlogCMS\NewsBlog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\C#\Repos\BlogCMS\NewsBlog\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\C#\Repos\BlogCMS\NewsBlog\bin\Microsoft.Owin.dll
+D:\C#\Repos\BlogCMS\NewsBlog\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\C#\Repos\BlogCMS\NewsBlog\bin\Microsoft.Owin.Security.Cookies.dll
+D:\C#\Repos\BlogCMS\NewsBlog\bin\Microsoft.Owin.Security.dll
+D:\C#\Repos\BlogCMS\NewsBlog\bin\Microsoft.Owin.Security.Facebook.dll
+D:\C#\Repos\BlogCMS\NewsBlog\bin\Microsoft.Owin.Security.Google.dll
+D:\C#\Repos\BlogCMS\NewsBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\C#\Repos\BlogCMS\NewsBlog\bin\Microsoft.Owin.Security.OAuth.dll
+D:\C#\Repos\BlogCMS\NewsBlog\bin\Microsoft.Owin.Security.Twitter.dll
+D:\C#\Repos\BlogCMS\NewsBlog\bin\Microsoft.Web.Infrastructure.dll
+D:\C#\Repos\BlogCMS\NewsBlog\bin\Newtonsoft.Json.dll
+D:\C#\Repos\BlogCMS\NewsBlog\bin\Owin.dll
+D:\C#\Repos\BlogCMS\NewsBlog\bin\PagedList.dll
+D:\C#\Repos\BlogCMS\NewsBlog\bin\PagedList.Mvc.dll
+D:\C#\Repos\BlogCMS\NewsBlog\bin\System.Net.Http.Formatting.dll
+D:\C#\Repos\BlogCMS\NewsBlog\bin\System.Web.Helpers.dll
+D:\C#\Repos\BlogCMS\NewsBlog\bin\System.Web.Http.dll
+D:\C#\Repos\BlogCMS\NewsBlog\bin\System.Web.Http.WebHost.dll
+D:\C#\Repos\BlogCMS\NewsBlog\bin\System.Web.Mvc.dll
+D:\C#\Repos\BlogCMS\NewsBlog\bin\System.Web.Optimization.dll
+D:\C#\Repos\BlogCMS\NewsBlog\bin\System.Web.Razor.dll
+D:\C#\Repos\BlogCMS\NewsBlog\bin\System.Web.WebPages.Deployment.dll
+D:\C#\Repos\BlogCMS\NewsBlog\bin\System.Web.WebPages.dll
+D:\C#\Repos\BlogCMS\NewsBlog\bin\System.Web.WebPages.Razor.dll
+D:\C#\Repos\BlogCMS\NewsBlog\bin\WebGrease.dll
+D:\C#\Repos\BlogCMS\NewsBlog\bin\PagedList.xml
+D:\C#\Repos\BlogCMS\NewsBlog\bin\PagedList.Mvc.xml
+D:\C#\Repos\BlogCMS\NewsBlog\bin\System.Web.Helpers.xml
+D:\C#\Repos\BlogCMS\NewsBlog\bin\System.Web.Mvc.xml
+D:\C#\Repos\BlogCMS\NewsBlog\bin\System.Web.Optimization.xml
+D:\C#\Repos\BlogCMS\NewsBlog\bin\System.Web.Razor.xml
+D:\C#\Repos\BlogCMS\NewsBlog\bin\System.Web.WebPages.xml
+D:\C#\Repos\BlogCMS\NewsBlog\bin\System.Web.WebPages.Deployment.xml
+D:\C#\Repos\BlogCMS\NewsBlog\bin\System.Web.WebPages.Razor.xml
+D:\C#\Repos\BlogCMS\NewsBlog\bin\Antlr3.Runtime.pdb
+D:\C#\Repos\BlogCMS\NewsBlog\bin\Newtonsoft.Json.xml
+D:\C#\Repos\BlogCMS\NewsBlog\bin\System.Net.Http.Formatting.xml
+D:\C#\Repos\BlogCMS\NewsBlog\bin\System.Web.Http.xml
+D:\C#\Repos\BlogCMS\NewsBlog\bin\System.Web.Http.WebHost.xml
+D:\C#\Repos\BlogCMS\NewsBlog\bin\EntityFramework.xml
+D:\C#\Repos\BlogCMS\NewsBlog\bin\EntityFramework.SqlServer.xml
+D:\C#\Repos\BlogCMS\NewsBlog\bin\Microsoft.AspNet.Identity.Core.xml
+D:\C#\Repos\BlogCMS\NewsBlog\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\C#\Repos\BlogCMS\NewsBlog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\C#\Repos\BlogCMS\NewsBlog\bin\Microsoft.Owin.xml
+D:\C#\Repos\BlogCMS\NewsBlog\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\C#\Repos\BlogCMS\NewsBlog\bin\Microsoft.Owin.Security.xml
+D:\C#\Repos\BlogCMS\NewsBlog\bin\Microsoft.Owin.Security.Facebook.xml
+D:\C#\Repos\BlogCMS\NewsBlog\bin\Microsoft.Owin.Security.Cookies.xml
+D:\C#\Repos\BlogCMS\NewsBlog\bin\Microsoft.Owin.Security.OAuth.xml
+D:\C#\Repos\BlogCMS\NewsBlog\bin\Microsoft.Owin.Security.Google.xml
+D:\C#\Repos\BlogCMS\NewsBlog\bin\Microsoft.Owin.Security.Twitter.xml
+D:\C#\Repos\BlogCMS\NewsBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\C#\Repos\BlogCMS\NewsBlog\obj\Debug\NewsBlog.csprojResolveAssemblyReference.cache
+D:\C#\Repos\BlogCMS\NewsBlog\obj\Debug\NewsBlog.dll
+D:\C#\Repos\BlogCMS\NewsBlog\obj\Debug\NewsBlog.pdb
+C:\Users\Home\Downloads\NewsMVC-master\NewsMVC-master\bin\NewsBlog.dll.config
+C:\Users\Home\Downloads\NewsMVC-master\NewsMVC-master\bin\NewsBlog.dll
+C:\Users\Home\Downloads\NewsMVC-master\NewsMVC-master\bin\NewsBlog.pdb
+C:\Users\Home\Downloads\NewsMVC-master\NewsMVC-master\bin\Newtonsoft.Json.dll
+C:\Users\Home\Downloads\NewsMVC-master\NewsMVC-master\bin\PagedList.xml
+C:\Users\Home\Downloads\NewsMVC-master\NewsMVC-master\bin\PagedList.Mvc.xml
+C:\Users\Home\Downloads\NewsMVC-master\NewsMVC-master\bin\System.Web.Helpers.xml
+C:\Users\Home\Downloads\NewsMVC-master\NewsMVC-master\bin\System.Web.Mvc.xml
+C:\Users\Home\Downloads\NewsMVC-master\NewsMVC-master\bin\System.Web.Optimization.xml
+C:\Users\Home\Downloads\NewsMVC-master\NewsMVC-master\bin\System.Web.Razor.xml
+C:\Users\Home\Downloads\NewsMVC-master\NewsMVC-master\bin\System.Web.WebPages.xml
+C:\Users\Home\Downloads\NewsMVC-master\NewsMVC-master\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Home\Downloads\NewsMVC-master\NewsMVC-master\bin\System.Web.WebPages.Razor.xml
+C:\Users\Home\Downloads\NewsMVC-master\NewsMVC-master\bin\Antlr3.Runtime.pdb
+C:\Users\Home\Downloads\NewsMVC-master\NewsMVC-master\bin\System.Net.Http.Formatting.xml
+C:\Users\Home\Downloads\NewsMVC-master\NewsMVC-master\bin\System.Web.Http.xml
+C:\Users\Home\Downloads\NewsMVC-master\NewsMVC-master\bin\System.Web.Http.WebHost.xml
+C:\Users\Home\Downloads\NewsMVC-master\NewsMVC-master\bin\EntityFramework.xml
+C:\Users\Home\Downloads\NewsMVC-master\NewsMVC-master\bin\EntityFramework.SqlServer.xml
+C:\Users\Home\Downloads\NewsMVC-master\NewsMVC-master\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Home\Downloads\NewsMVC-master\NewsMVC-master\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Home\Downloads\NewsMVC-master\NewsMVC-master\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Home\Downloads\NewsMVC-master\NewsMVC-master\bin\Microsoft.Owin.xml
+C:\Users\Home\Downloads\NewsMVC-master\NewsMVC-master\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Home\Downloads\NewsMVC-master\NewsMVC-master\bin\Microsoft.Owin.Security.xml
+C:\Users\Home\Downloads\NewsMVC-master\NewsMVC-master\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Home\Downloads\NewsMVC-master\NewsMVC-master\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Home\Downloads\NewsMVC-master\NewsMVC-master\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Home\Downloads\NewsMVC-master\NewsMVC-master\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Home\Downloads\NewsMVC-master\NewsMVC-master\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Home\Downloads\NewsMVC-master\NewsMVC-master\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Home\Downloads\NewsMVC-master\NewsMVC-master\obj\Debug\NewsBlog.csprojResolveAssemblyReference.cache
+C:\Users\Home\Downloads\NewsMVC-master\NewsMVC-master\obj\Debug\NewsBlog.dll
+C:\Users\Home\Downloads\NewsMVC-master\NewsMVC-master\obj\Debug\NewsBlog.pdb
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\bin\NewsBlog.dll.config
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\bin\NewsBlog.dll
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\bin\NewsBlog.pdb
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\bin\Newtonsoft.Json.dll
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\bin\PagedList.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\bin\PagedList.Mvc.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\bin\System.Web.Helpers.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\bin\System.Web.Mvc.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\bin\System.Web.Optimization.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\bin\System.Web.Razor.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\bin\System.Web.WebPages.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\bin\System.Web.WebPages.Deployment.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\bin\System.Web.WebPages.Razor.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\bin\Antlr3.Runtime.pdb
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\bin\System.Net.Http.Formatting.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\bin\System.Web.Http.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\bin\System.Web.Http.WebHost.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\bin\EntityFramework.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\bin\EntityFramework.SqlServer.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\bin\Microsoft.AspNet.Identity.Core.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\bin\Microsoft.Owin.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\bin\Microsoft.Owin.Security.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\bin\Microsoft.Owin.Security.Facebook.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\bin\Microsoft.Owin.Security.Cookies.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\bin\Microsoft.Owin.Security.OAuth.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\bin\Microsoft.Owin.Security.Google.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\bin\Microsoft.Owin.Security.Twitter.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\obj\Debug\NewsBlog.csprojResolveAssemblyReference.cache
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\obj\Debug\NewsBlog.dll
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\obj\Debug\NewsBlog.pdb
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\bin\NewsBlog.dll.config
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\bin\NewsBlog.dll
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\bin\NewsBlog.pdb
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\bin\Newtonsoft.Json.dll
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\bin\PagedList.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\bin\PagedList.Mvc.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\bin\System.Web.Helpers.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\bin\System.Web.Mvc.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\bin\System.Web.Optimization.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\bin\System.Web.Razor.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\bin\System.Web.WebPages.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\bin\System.Web.WebPages.Deployment.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\bin\System.Web.WebPages.Razor.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\bin\Antlr3.Runtime.pdb
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\bin\System.Net.Http.Formatting.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\bin\System.Web.Http.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\bin\System.Web.Http.WebHost.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\bin\EntityFramework.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\bin\EntityFramework.SqlServer.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\bin\Microsoft.AspNet.Identity.Core.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\bin\Microsoft.Owin.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\bin\Microsoft.Owin.Security.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\bin\Microsoft.Owin.Security.Facebook.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\bin\Microsoft.Owin.Security.Cookies.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\bin\Microsoft.Owin.Security.OAuth.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\bin\Microsoft.Owin.Security.Google.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\bin\Microsoft.Owin.Security.Twitter.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\obj\Debug\NewsBlog.csprojResolveAssemblyReference.cache
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\obj\Debug\NewsBlog.dll
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\obj\Debug\NewsBlog.pdb
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\bin\MySql.Data.dll
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\bin\MySql.Data.Entity.EF6.dll
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\NewsMVC-master\bin\NewsBlog.dll.config
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\NewsMVC-master\bin\NewsBlog.dll
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\NewsMVC-master\bin\NewsBlog.pdb
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\NewsMVC-master\bin\MySql.Data.dll
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\NewsMVC-master\bin\MySql.Data.Entity.EF6.dll
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\NewsMVC-master\bin\Newtonsoft.Json.dll
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\NewsMVC-master\bin\PagedList.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\NewsMVC-master\bin\PagedList.Mvc.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\NewsMVC-master\bin\System.Web.Helpers.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\NewsMVC-master\bin\System.Web.Mvc.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\NewsMVC-master\bin\System.Web.Optimization.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\NewsMVC-master\bin\System.Web.Razor.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\NewsMVC-master\bin\System.Web.WebPages.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\NewsMVC-master\bin\System.Web.WebPages.Deployment.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\NewsMVC-master\bin\System.Web.WebPages.Razor.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\NewsMVC-master\bin\Antlr3.Runtime.pdb
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\NewsMVC-master\bin\System.Net.Http.Formatting.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\NewsMVC-master\bin\System.Web.Http.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\NewsMVC-master\bin\System.Web.Http.WebHost.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\NewsMVC-master\bin\EntityFramework.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\NewsMVC-master\bin\EntityFramework.SqlServer.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\NewsMVC-master\bin\Microsoft.AspNet.Identity.Core.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\NewsMVC-master\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\NewsMVC-master\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\NewsMVC-master\bin\Microsoft.Owin.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\NewsMVC-master\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\NewsMVC-master\bin\Microsoft.Owin.Security.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\NewsMVC-master\bin\Microsoft.Owin.Security.Facebook.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\NewsMVC-master\bin\Microsoft.Owin.Security.Cookies.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\NewsMVC-master\bin\Microsoft.Owin.Security.OAuth.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\NewsMVC-master\bin\Microsoft.Owin.Security.Google.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\NewsMVC-master\bin\Microsoft.Owin.Security.Twitter.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\NewsMVC-master\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\NewsMVC-master\obj\Debug\NewsBlog.csprojResolveAssemblyReference.cache
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\NewsMVC-master\obj\Debug\NewsBlog.dll
+D:\!ДИПЛОМ\!Мой диплом\!ДИПЛОМНАЯ РАБОТА\NewsMVC-master\NewsMVC-master\NewsMVC-master\obj\Debug\NewsBlog.pdb
