@@ -1,0 +1,50 @@
+﻿ @media (min-width: 768px) and (max-width: 991px){
+         #TopBar{
+            display:none;
+
+  }
+
+   #search #searchform #innerSearch .counts{
+        display:none;
+    }
+    #searchform input{
+        width:100%;
+        max-width:100%;
+        margin-left:auto;
+        margin-right:auto;
+        float:none;
+    }
+
+    #MainTable{
+        width:100%;
+        margin-left:auto;
+        margin-right:auto;
+    }
+
+     #MainTable tr td:nth-child(1), th:nth-child(1){
+       display:none;
+   } 
+
+     .most_popular tr td:nth-child(2), td:nth-child(3){
+         display:none;
+     }
+ }
+@media (max-width: 767px) {
+    #TopBar {
+        display: none;
+    }
+     #search #searchform #innerSearch .counts{
+        display:none;
+    }
+    #MainTable {
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    #MainTable tr td:nth-child(1), th:nth-child(1) {
+            display: none;
+    }
+    .most_popular tr td:nth-child(2), td:nth-child(3){
+         display:none;
+     }
+}

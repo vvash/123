@@ -1,0 +1,165 @@
+﻿    #showMore {
+        background-color:#4db7ad;
+        border: none;
+        display:block;
+        color: white;
+        padding: 15px 32px;
+        width:500px;
+        text-align: center;
+        text-decoration: none;
+        font-size: 16px;
+        margin: 0 auto;
+        position:relative;
+    }
+
+    img {
+    -webkit-filter: brightness(100%);
+}
+
+    img:hover {
+        -webkit-filter: brightness(80%);
+        -webkit-transition: all 1s ease;
+        -moz-transition: all 1s ease;
+        -o-transition: all 1s ease;
+        -ms-transition: all 1s ease;
+        transition: all 1s ease;
+    }
+
+    .most_popular{
+        width: 60%;
+        background-color:#ffffff;
+        font-weight:bold;
+        margin-left:60px;
+        background-size: 100% 100%;
+        border-radius: 10px;
+        clear:left;
+
+    }
+    .most_popular p{
+        text-align:center; 
+        font-weight:bold; 
+        font-size:25px;
+        padding:15px;
+    }
+
+         #TopBar p{
+         text-align:center;
+         padding-top:15px;
+     }
+
+     #TopBar {
+        background-color:#ffffff;
+        position:relative;
+     }
+
+     #vk_groups{
+         margin:auto;
+         padding-top:50px;
+         position:absolute;
+     }
+
+    .popular_by_week{
+        width:25%;
+        float:right;
+        border:2px solid #ccc;
+        background-color:#ffffff;
+    }
+    .popular_by_week p{
+        font-size:15px; 
+        font-weight:bold;
+        margin-left:5px;
+    }
+
+    #MainTable{
+        width:60%;
+        table-layout:fixed;
+        margin-left:5%;
+        margin-top:-20px;
+        background-color:#ffffff;
+        padding:10px;
+    }
+    
+    #MainTable td:first-child{
+    }
+ 
+    #MainTable tr td:first-child ul li:first-child{
+        text-align:center;
+    }
+
+   #itemName{
+        padding-bottom:50px;
+    }
+
+    #MainTable tr td:nth-child(1), th:nth-child(1){
+        width:250px; 
+        vertical-align:middle;
+    }
+
+    #MainTable li:first-child{
+        font-weight:bold;
+        color:#4db7ad;
+    }
+     #MainTable li:last-child{
+        margin-left:30px;
+        font-weight:bold
+    }
+
+
+
+    table {
+		overflow-x: auto;
+		display: block;
+	}
+    table, #MainTable tr:nth-child(3n)  {
+        border-bottom:2px solid #ccc;
+        
+    }
+    table, table td{
+        border: none !important;
+    }
+
+    img {
+     max-width: 100%; 
+     height: auto; 
+     width: auto\\9; /* ie8 */
+    }
+
+    .counts{
+        float:right;
+    }
+
+    #innerSearch #searchbtn{
+        width:50px;
+        float:left;
+        color:white;
+        margin-top:10px; 
+        margin-left:5px; 
+        background-color:transparent; 
+        border-radius:5%; 
+        height:30px;
+    }
+
+    #innerSearch #search{
+        float:left;
+        box-sizing: border-box;
+        border-radius: 1px;
+        font-size: 12px;
+        width:120px;
+        height:30px;
+        background-color: transparent;
+        background-position: 10px 10px;
+        background-repeat: no-repeat;
+        padding: 12px 20px 12px 10px;
+        margin-top:10px;
+        -webkit-transition: width 0.4s ease-in-out;
+        transition: width 0.4s ease-in-out;
+    }
+
+    ::-webkit-input-placeholder {
+        color: white;
+}
+
+    #innerSearch #search:focus{
+        width:200px;
+    }
+
