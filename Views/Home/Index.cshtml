@@ -1,0 +1,233 @@
+﻿@model PagedList.IPagedList<NewsBlog.Models.Article>
+@using PagedList.Mvc;
+@using NewsBlog.Models;
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@{
+        ViewBag.Title = "Home";
+
+        var options = new AjaxOptions()
+        {
+            UpdateTargetId = "tabledata",
+            Url = Url.Action("AjaxMostPopular"),
+            LoadingElementId = "loadingIndicator",
+        };
+}
+
+<style>
+    .ui-dialog-titlebar {
+        background-color: #162135;
+        background-image: none;
+        color: white;
+    }
+</style>
+            @if (Model.Count > 0 && ViewBag.isSearch == true)
+            {
+                <div style="margin-bottom:50px;margin-left:15px;">
+                    <div id="alert_message" class="alert alert-success" role="alert" style="margin-top:10px; width:90%">
+                        <strong>@ViewBag.SearchString</strong>
+                    </div>
+                </div>
+            }
+            else
+            {
+                <div style="margin-bottom:50px;margin-left:15px;">
+
+                </div>
+            }
+            @if (Model.Count == 0)
+            {
+                <div style="float:left; height:1000px; margin-left:15px;">
+                    <div id="alert_message" class="alert alert-success" role="alert">
+                        <strong>@ViewBag.SearchString</strong>
+                    </div>
+                </div>
+            }
+
+            <div id="wrapper">
+                <div id="TopBar" class="popular_by_week">
+                    <p style="color:#8B4513">
+                        Popular Articles
+                    </p>
+                    <table class="table" style="table-layout:fixed">
+                        @foreach (var item in ViewBag.TopThree)
+                        {
+                            <tr>
+                                <td>
+                                    <text style="float:left; font-size:11px; font-weight:700;">@Html.ActionLink((string)item.Name, "news", "Home", new { id = @item.ID }, new { @class = "more markered", @style = "color:black" })</text><br /><br />
+                                    <br />
+                                    <center><a href='@Url.Action("news", "Home", routeValues: new { id = item.ID })'><img width="90%" src="@Url.Action("GetImageTop", "Articles", routeValues: new { id = item.ID })" class="img-rounded" /></a></center>
+                                </td>
+                                
+                                <td>
+                                    <br /><br /><br /><br />
+                                    <text style="color:#8B4513">+@item.ViewCount</text>
+                                </td>
+                            </tr>
+                        }
+                    </table>
+
+
+                    
+                    
+
+                    <p style="color:#162135">
+                        Categories
+                    </p><br />
+
+                    @foreach (var item in ViewBag.Categories)
+                    {
+                        <a href='@Url.Action("Index", "Home",routeValues: new { category = item.Name })' style="color:black ; font-weight:bold; float:left; padding-left:10px;"><text style="color:#162135">&#9632;</text> @item.Name </a><br />
+                    }
+
+                    @*<div id="vk_groups"></div>*@
+                   
+                </div>
+     
+                    
+                
+               
+               
+
+                <div style="width:100%; margin:0px 5% 0px 0px;">
+                    <br />
+                    <table cellspacing="0" class="table" cellpadding="0" id="MainTable">
+                        @{int v = 0;}
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>
+
+                                    <ul>
+                                        @{int j = 0;}
+                                        @foreach (var i in ViewBag.Query)
+                                        {
+                                            if (v == j)
+                                            {
+                                                <li>
+                                                    @i.LastName @i.FirstName <br />
+                                                    <img style="width:100px;height:100px; border-radius:50%;" src="@Url.Action("GetUserImage","Home", routeValues: new { id = i.Id })" />
+                                                </li>
+                                                <li style="color:#8B4513;text-align:center; margin-right:50px;">@item.Categories.Name</li>
+                                            }
+                                            j++;
+                                        }
+                                    </ul>
+                                </td>
+
+                                <td>
+                                    <text  style="float:left; font-size:18px; padding:10px;">@Html.ActionLink(item.Name, "news", "Home", new { id = item.ID }, new { @style = "color:black;font-weight:bold;" })</text><br />
+                                    <center><a href='@Url.Action("news", "Home",routeValues: new { id = item.ID })'><img id="cover" width="100%" src="@Url.Action("GetCoverImage", "Articles", routeValues: new { id = item.ID })" class="img-rounded" /></a></center>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td>
+                                    <br /><text style="word-break:break-all; font-size:15px;">@Html.DisplayFor(modelItem => item.Description)</text>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td>
+                                    <span class="glyphicon glyphicon-time" aria-hidden="true" style="float:left;color:#8B4513"></span>
+                                    <text style="font-size:13px; color:#8B4513; font-weight:bold">&nbsp; @item.DateCreate &nbsp;&nbsp;&nbsp;</text><text style="color:#50de7a">+@item.ViewCount</text> 
+                                    <a href='@Url.Action("news", "Home",routeValues: new { id = item.ID })'><text id="itemName" style="float:right; font-weight:bold; color:#8B4513">Read More &#9658;</text></a>
+                                </td>
+                            </tr>
+
+                                        v++;
+                        }
+                    </table>
+                    
+                        @Html.PagedListPager(Model, page => Url.Action("Index", new { page }))
+                    
+                    
+                    
+                    @if (Model.Count <=10)
+                    {
+                        <div class="most_popular" style="margin-top:10px">
+                            <p><span class="glyphicon glyphicon-leaf" style="color:#8B4513;"></span> Popular articles</p>
+                            @using (Ajax.BeginForm(options))
+                            {
+                                <table cellpadding="5">
+                                    <tbody id="tabledata">
+                                        @Html.Action("AjaxMostPopular")
+                                    </tbody>
+                                </table>
+                                <input type="submit" value="More" id="showMore" /><br />
+                            }
+                        </div>
+                        
+                    }
+
+                    <p id="d">
+
+                    </p>
+                   
+                </div>
+            </div>
+
+
+            @section scripts
+    {
+                <script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+
+                <script type="text/javascript">
+                    window.setTimeout(function () {
+                        $("#alert_message").fadeTo(500, 0).slideUp(500, function () {
+                            $(this).remove();
+                        });
+                    }, 3000);
+                </script>
+
+                <script>
+                    $(document).ready(function () {
+
+                        $.ajaxSetup({ cache: false });
+
+                        $(".viewDialog").on("click", function (e) {
+                            e.preventDefault();
+
+                            $("<div id='dialogContent'></div>")
+                                .addClass("dialog")
+                                .appendTo("body")
+                                .load(this.href)
+                                .dialog({
+                                    title: $(this).attr("data-dialog-title"),
+                                    close: function () { $(this).remove() },
+                                    modal: true,
+                                    buttons: {
+                                        "OK": function () {
+                                            $.ajax({
+                                                url: "@Url.Action("Login", "Account")",
+                                                type: "POST",
+                                                data: $('form').serialize(),
+                                                datatype: "json",
+                                                success: function (result) {
+                                                    $("#dialogContent").html(result);
+                                                }
+                                            });
+                                        }
+                                    }
+                                });
+                        });
+                        $(".close").on("click", function (e) {
+                            e.preventDefault();
+                            $(this).closest(".dialog").dialog("close");
+                        });
+                    });
+                </script>
+                <script type="text/javascript">
+                    VK.Widgets.Group("vk_groups", { mode: 0, width: "330", height: "400" }, 2355375);
+                </script>
+            }
+
+
+
+
+
+
+
+

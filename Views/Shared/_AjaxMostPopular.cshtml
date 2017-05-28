@@ -1,0 +1,16 @@
+﻿@model IEnumerable<NewsBlog.Models.Article>
+
+        @foreach (NewsBlog.Models.Article article in Model)
+        {
+            <tr>
+                <td width="700px">
+                    <text style="float:left; font-size:15px; font-weight:bold; padding-left:15px;">@Html.ActionLink(article.Name, "news", "Home", new { id = article.ID }, new { @style = "color:black;" })</text><br /><br /><br /><br />
+                </td>
+                <td width="300px">
+                    <center><a href='@Url.Action("news", "Home", routeValues: new { id = article.ID })'><img width="60%" src="@Url.Action("GetImageTop", "Articles", routeValues: new { id = article.ID })" class="img-rounded" style="vertical-align:middle"/></a></center>
+                </td>
+                <td>
+                    <text style="color:#4db7ad; padding-right:20px;">+@article.ViewCount</text> 
+                </td>
+            </tr>
+        }

@@ -1,0 +1,127 @@
+﻿@model PagedList.IPagedList<NewsBlog.Models.Article>
+@using PagedList.Mvc;
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    p.clip {
+        overflow: hidden; /* Обрезаем все, что не помещается в область */
+        text-overflow: clip; /* Добавляем многоточие */
+    }
+
+    .ui-dialog-titlebar {
+        background-color: #8B4513;
+        background-image: none;
+        color: #000;
+    }
+
+    .text p {
+        margin: 0;
+    }
+
+    .line-clamp {
+        display: -webkit-box;
+        -webkit-line-clamp: 5;
+        -webkit-box-orient: vertical;
+    }
+</style>
+
+@*<h2>Total News: @Model.TotalItemCount</h2>*@
+
+@Html.ActionLink("Add an article", "Create", null, new { @style = "color:#8B4513; font-weight:bold" })
+<br /><br />
+
+<div>
+    <table class="table" border="0">
+        <tr>
+            <th>
+                Сover
+            </th>
+            <th>
+                Name
+            </th>
+            <th>
+                Summary
+
+            </th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+
+                <td align="left">
+                    <img width="100" height="100" src="@Url.Action("GetCoverImage", "Articles", routeValues: new { id = item.ID })" class="img-round" />
+                </td>
+                <td>
+                    @Html.ActionLink(item.Name, "news", "Home", new { id = item.ID }, new { @style = "color:#000; font-weight:bold;" })
+                    <br />
+                    <br />
+                    @Html.DisplayFor(modelItem => item.DateCreate)
+
+                </td>
+
+                <td style="width:400px">
+                    <div class="text line-clamp"><p class="clip">@Html.DisplayFor(modelItem => item.Description)</p></div>
+                </td>
+
+                <td style="width:80px">
+                    <center>
+                        @Html.ActionLink("Edit", "Edit", new { id = item.ID }, new { @style = "color:black; font-weight:bold;" })<br />
+                        @Html.ActionLink("Delete", "Delete", new { id = item.ID }, new { @class = "delete-link", @style = "color:black; font-weight:bold;" })<br />
+                    </center>
+                </td>
+            </tr>
+        }
+
+    </table>
+    <div id="delete-dialog" title="Remove current news">
+        <p>Are you sure you want to delete this news?</p>
+    </div>
+
+
+    @Html.PagedListPager(Model, page => Url.Action("Index", new { page }))
+
+</div>
+
+
+@section scripts
+    {
+    <script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+    <script>
+    var deleteLinkObj;
+    // delete Link
+    $('.delete-link').click(function () {
+        deleteLinkObj = $(this);  //for future use
+        $('#delete-dialog').dialog('open');
+        return false; // prevents the default behaviour
+    });
+
+    $('#delete-dialog').dialog({
+        autoOpen: false, width: 400, resizable: false, modal: true, //Dialog options
+        buttons: {
+            "Ok": function () {
+                $.post(deleteLinkObj[0].href, function (data) {  //Post to action
+                    if (data.Success) {
+                        deleteLinkObj.closest("tr").hide('fast'); //Hide Row
+
+                        //(optional) Display Confirmation
+                    }
+                    else {
+                        //(optional) Display Error
+                    }
+                });
+                $(this).dialog("close");
+
+            },
+            "Cancel": function () {
+                $(this).dialog("close");
+            }
+        }
+    });
+    </script>
+
+}

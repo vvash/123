@@ -1,0 +1,155 @@
+﻿@model NewsBlog.Models.Article
+@{
+    ViewBag.Title = "article";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+
+    .form-control-inline {
+        min-width: 0;
+        width: auto;
+        display: inline;
+    }
+
+    .img-container img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .img-container iframe {
+        width: 100%;
+    }
+
+    div .wrapper {
+        width: 60%;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;        
+    }
+
+    div .content {
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 50px;
+    }
+     aside{
+        padding-left:100px;
+    }
+</style>
+
+<style>
+    @@media (min-width: 768px) and (max-width: 991px) {
+        div .wrapper {
+            width: 100%;
+        }
+
+        .social {
+            width: 100%;
+            display: block;
+        }
+    }
+</style>
+
+<style>
+    @@media (max-width: 767px) {
+        div .wrapper {
+            width: 100%;
+        }
+
+        .social {
+            width: 100%;
+            display: block;
+        }
+    }
+   
+</style>
+    <div class="wrapper">
+    <div class="social">
+            <div class="social_content">
+                <a href="https://twitter.com/intent/tweet?url=@HttpContext.Current.Request.Url.AbsoluteUri&text=@Html.Raw(Server.HtmlDecode(Model.Name))&via=YOURTWITTERNAMEHERE">
+                    <img src="~/Content/social_icons/twitter.png" alt="Twitter" style="width:42px;height:42px;border:0">
+                </a>
+                <a href="https://facebook.com/sharer.php?u=@HttpContext.Current.Request.Url.AbsoluteUri">
+                    <img src="~/Content/social_icons/facebook.png" alt="Facebook" style="width:42px;height:42px;border:0">
+                </a>
+                <a href="https://plus.google.com/share?url=@HttpContext.Current.Request.Url.AbsoluteUri">
+                    <img src="~/Content/social_icons/google.png" alt="Google+" style="width:42px;height:42px;border:0">
+                </a>
+
+                <a href="http://vk.com/share.php?url=@HttpContext.Current.Request.Url.AbsoluteUri&title=@Html.Raw(Server.HtmlDecode(Model.Name))%20Title&description=Shared%20Page%20Description&image=http://localhost:1530/Articles/GetProductImage/@Model.ID">
+                    <img src="~/Content/social_icons/vk.png" alt="Vkontakte" style="width:42px;height:42px;border:0">
+                </a>
+            </div>
+            <br />
+        </div>
+
+    <div layout="column">
+        <md-toolbar class="md-warn" style="background-color:#8B4513">
+            <div class="md-toolbar-tools">
+                <h2 class="md-flex">@Html.Raw(Server.HtmlDecode(Model.Name))</h2>
+            </div>
+        </md-toolbar>
+
+        <md-content flex layout-padding>
+
+            <text style="font-style:italic">
+                <p>@Html.Raw(Server.HtmlDecode(Model.Description))</p>
+            </text>
+            <center>
+                <img width="100%" style="text-align:center" src="@Url.Action("GetCoverImage", "Articles", routeValues: new { id = Model.ID })" class="img-rounded" />
+            </center><br /><br />
+            @Html.Raw(Model.Content)
+
+            <md-toolbar class="md-warn" style="background-color:#51aea3">
+                <div class="md-toolbar-tools">
+                    <h3 class="md-flex">Top:</h3>
+                </div>
+            </md-toolbar>
+                <table class="table" style="table-layout:fixed">
+                    @foreach (var item in ViewBag.TopThree)
+                    {
+                        <tr>
+                            <td>
+                                <text style="float:left; font-size:12px; font-weight:700;">@Html.ActionLink((string)item.Name, "news", "Home", new { id = @item.ID }, new { @class = "more markered", @style = "color:black" })</text><br /><br />
+                                @*<center><a href='@Url.Action("news", "Home", routeValues: new { id = item.ID })'><img width="100%" src="@Url.Action("GetImageTop", "Articles", routeValues: new { id = item.ID })" class="img-rounded" /></a></center>*@
+                            </td>
+                            <td>
+                                <span class="glyphicon glyphicon-eye-open"></span>
+                            </td>
+                            <td>
+                                @item.ViewCount
+                            </td>
+                        </tr>
+                    }
+                </table>
+    
+
+    @Html.Partial("_Disqus")
+
+    </md-content>
+
+        </div>
+</div>
+
+            
+
+    
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

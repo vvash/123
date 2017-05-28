@@ -1,0 +1,19 @@
+﻿@using NewsBlog.Models
+@model LoginViewModel
+
+@using (Html.BeginForm("Login", "Account", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+    <p><label for="email">Email:</label></p>
+    <p>@Html.TextBoxFor(m => m.Email, new { @class = "form-control" })</p>
+    @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })
+    <p><label for="password">Password</label></p>
+
+    @Html.PasswordFor(m => m.Password, new { @class = "form-control" })
+    @Html.ValidationMessageFor(m => m.Password, "", new { @class = "text-danger" })
+
+}
+
+
+

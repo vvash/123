@@ -1,0 +1,29 @@
+﻿@using NewsBlog.Models
+@model LoginViewModel
+@{
+    ViewBag.Title = "Log in";
+}
+
+@using (Html.BeginForm("Login", "Account", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+{
+    @Html.AntiForgeryToken()
+    <div id="login">
+        <h2><span class="fontawesome-lock"></span>Log in</h2>
+        <form action="javascript:void(0);" method="POST">
+            <fieldset>
+                <p><label for="email">Email:</label></p>
+                <p>@Html.TextBoxFor(m => m.Email, new { @class = "form-control" })</p>
+                @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })
+                <p><label for="password">Password</label></p>
+                <p>
+                    @Html.PasswordFor(m => m.Password, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(m => m.Password, "", new { @class = "text-danger" })
+                <p><input type="submit" value="Log In"></p>
+            </fieldset>
+        </form>
+    </div>
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

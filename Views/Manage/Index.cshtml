@@ -1,0 +1,195 @@
+﻿@using Microsoft.AspNet.Identity;
+@model NewsBlog.Models.IndexViewModel
+
+@{
+    ViewBag.Title = "Manage";
+}
+
+<p class="text-success">@ViewBag.StatusMessage</p>
+
+<style>
+    .image-upload > input
+{
+    display: none;
+}
+    img:hover{
+        border: 1px solid #00ff90;
+    }
+
+    img #cover{
+        border-radius:50%;
+        height:200px;
+        width:200px;
+    }
+     
+</style>
+@using (Html.BeginForm("UpdateUser", "Manage", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xs-offset-0 col-sm-offset-0 col-md-offset-3 col-lg-offset-3 toppad">
+                <div class="panel panel-info">
+                    <div class="panel-heading">
+                        <h3 class="panel-heading">Personal Area</h3>
+                    </div>
+                    <div class="panel-body">
+                        <div class="row">
+                            <div class="col-md-4 col-lg-4 " align="center">
+                                <div class="image-upload">
+                                    <label for="file">
+                                        <img src="@Url.Action("GetUserCover", "Manage")" style="width:150px; height:150px;" id="#cover" class="img-rounded" />
+                                    </label>
+                                    <input type="file" name="file" id="file" style="width: 100%;margin-left: auto; margin-right: auto;" />
+                                </div>
+                            </div>
+                            <div class=" col-md-8 col-lg-8">
+                                <table class="table table-user-information">
+                                    <tbody>
+                                        <tr>
+                                            <td>@Html.EditorFor(model => model.FirstName, new { htmlAttributes = new { @class = "form-control" } })
+                                                @Html.ValidationMessageFor(model => model.FirstName, "", new { @class = "text-danger" })</td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                @Html.EditorFor(model => model.LastName, new { htmlAttributes = new { @class = "form-control" } })
+                                                @Html.ValidationMessageFor(model => model.LastName, "", new { @class = "text-danger" })
+                                        </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <input type="submit" value="Save" class="btn btn-default" />             
+                                            </td>
+                                        </tr>
+                                     </tbody>
+                                </table>
+                            </div>
+                        </div>
+                </div>
+             </div>
+        </div>
+    </div>
+ </div>
+}
+
+@*
+    <div class="form-group">
+        @Html.LabelFor(model => model.HasPassword, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            [
+            @if (Model.HasPassword)
+        {
+                @Html.ActionLink("Change your password", "ChangePassword", new { @class = "form-control" })
+            }
+            else
+            {
+                @Html.ActionLink("Create", "SetPassword")
+            }
+            ]
+        </div>
+    </div>*@
+
+
+
+
+
+@*
+    <dl class="dl-horizontal">
+
+                @*
+                    <dt>External Logins:</dt>
+                    <dd>
+                        @Model.Logins.Count [
+                        @Html.ActionLink("Manage", "ManageLogins") ]
+                    </dd>
+*@
+
+@*
+    Phone Numbers can used as a second factor of verification in a two-factor authentication system.
+
+     See <a href="http://go.microsoft.com/fwlink/?LinkId=403804">this article</a>
+        for details on setting up this ASP.NET application to support two-factor authentication using SMS.
+
+     Uncomment the following block after you have set up two-factor authentication
+*@
+@*
+    <dt>Phone Number:</dt>
+    <dd>
+        @(Model.PhoneNumber ?? "None") [
+        @if (Model.PhoneNumber != null)
+        {
+            @Html.ActionLink("Change", "AddPhoneNumber")
+            @: &nbsp;|&nbsp;
+            @Html.ActionLink("Remove", "RemovePhoneNumber")
+        }
+        else
+        {
+            @Html.ActionLink("Add", "AddPhoneNumber")
+        }
+        ]
+    </dd>
+*@
+
+@*
+    <dt>Two-Factor Authentication:</dt>
+    <dd>
+        <p>
+            There are no two-factor authentication providers configured. See <a href="http://go.microsoft.com/fwlink/?LinkId=403804">this article</a>
+            for details on setting up this ASP.NET application to support two-factor authentication.
+        </p>
+        @* @if (Model.TwoFactor)
+        {
+            using (Html.BeginForm("DisableTwoFactorAuthentication", "Manage", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+            {
+                @Html.AntiForgeryToken()
+                <text>Enabled
+                <input type="submit" value="Disable" class="btn btn-link" />
+                </text>
+            }
+        }
+        else
+        {
+            using (Html.BeginForm("EnableTwoFactorAuthentication", "Manage", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+            {
+                @Html.AntiForgeryToken()
+                <text>Disabled
+                <input type="submit" value="Enable" class="btn btn-link" />
+                </text>
+            }
+        }
+    </dd>
+*@
+
+@*
+    <dt>Прізвище:</dt>
+    <dd>
+
+    </dd>
+    <dt>Ім'я:</dt>
+    <dd>
+
+    </dd>
+
+    <dt>Аватар:</dt>
+    <dd>
+
+    </dd>
+
+    <dt>Password:</dt>
+    @*<dd>
+            [
+            @if (Model.HasPassword)
+            {
+                @Html.ActionLink("Change your password", "ChangePassword")
+            }
+            else
+            {
+                @Html.ActionLink("Create", "SetPassword")
+            }
+            ]
+        </dd>
+            </dl>  *@
+
+
+
